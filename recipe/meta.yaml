@@ -1,4 +1,4 @@
-{% set version = "1.1.0" %}
+{% set version = "1.1.1" %}
 {% set posix = 'm2-' if win else '' %}
 {% set native = 'm2w64-' if win else '' %}
 
@@ -10,7 +10,7 @@ source:
   url:
     - {{ cran_mirror }}/src/contrib/reactlog_{{ version }}.tar.gz
     - {{ cran_mirror }}/src/contrib/Archive/reactlog/reactlog_{{ version }}.tar.gz
-  sha256: ffa9a80f74f948386cc6e598615dae529864b2eb6835a014842fc61eddf1cf6e
+  sha256: 505d8eb6459ff0accc905bbec63a9afb6e40839c264c2e981526f4806d8651da
 
 build:
   merge_build_host: true  # [win]
