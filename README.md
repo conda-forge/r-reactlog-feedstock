@@ -3,7 +3,7 @@ About r-reactlog
 
 Home: https://rstudio.github.io/reactlog/, https://github.com/rstudio/reactlog, https://community.rstudio.com/tags/reactlog
 
-Package license: GPL-3
+Package license: GPL-3.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reactlog-feedstock/blob/main/LICENSE.txt)
 
