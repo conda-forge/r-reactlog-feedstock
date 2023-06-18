@@ -1,11 +1,11 @@
-About r-reactlog
-================
+About r-reactlog-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reactlog-feedstock/blob/main/LICENSE.txt)
 
 Home: https://rstudio.github.io/reactlog/, https://github.com/rstudio/reactlog, https://community.rstudio.com/tags/reactlog
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-reactlog-feedstock/blob/main/LICENSE.txt)
 
 Summary: Building interactive web applications with R is incredibly easy with 'shiny'. Behind the scenes, 'shiny' builds a reactive graph that can quickly become intertwined and difficult to debug. 'reactlog'  (Schloerke 2019) <doi:10.5281/zenodo.2591517> provides a visual insight into that black box of 'shiny' reactivity by constructing a directed dependency graph of the application's reactive state at any time point in a reactive recording.
 
